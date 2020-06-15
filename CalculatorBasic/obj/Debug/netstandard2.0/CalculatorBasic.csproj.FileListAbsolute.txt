@@ -1,0 +1,15 @@
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\CalculatorBasic.csprojAssemblyReference.cache
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\Views\Calculator.xaml.g.cs
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\CalculatorBasic.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\CalculatorBasic.AssemblyInfo.cs
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\CalculatorBasic.csproj.CoreCompileInputs.cache
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\CalculatorBasic.dll
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\ref\CalculatorBasic.dll
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\CalculatorBasic.pdb
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\bin\Debug\netstandard2.0\CalculatorBasic.deps.json
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\bin\Debug\netstandard2.0\CalculatorBasic.dll
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\bin\Debug\netstandard2.0\ref\CalculatorBasic.dll
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\bin\Debug\netstandard2.0\CalculatorBasic.pdb
+C:\Users\marvi\source\repos\CalculatorBasic\CalculatorBasic\obj\Debug\netstandard2.0\XamlC.stamp
